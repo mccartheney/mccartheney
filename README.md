@@ -42,6 +42,13 @@
     
 <br>
 
+- **Back-End Development**:
+
+   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+   ![Fast api](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+    
+<br>
+
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
